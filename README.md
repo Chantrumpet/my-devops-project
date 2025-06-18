@@ -1,2 +1,2 @@
 # my-devops-project
-Used only for internal school education and examinations.
+“This is my first DevOps practice project”
